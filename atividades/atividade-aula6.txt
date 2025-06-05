@@ -1,0 +1,105 @@
+Lista de exercícios 01 - Operadores aritméticos.
+
+1 - Soma de dois números
+    Recebendo 2 números quaisquer, x ou y.
+    Soma <-- x + y.
+    Exiba (Soma)
+
+2 - Média aritmética de três números
+    Recebendo 3 números quaisquer, x, y, z.
+    Média <-- (x + y + z) / 3
+    Exiba (Média)
+
+3 - Área de um retângulo
+    Recebendo 2 números quaisquer, base e altura.
+    Área <-- base * altura
+    Exiba (Área)
+
+4 - Área de um triângulo
+    Recebendo 2 números quaisquer, base e altura.
+    Área <-- (base * altura) / 2
+    Exiba (Área)
+
+5 - Conversão de temperatura
+    Recebendo um número em Celsius, C.
+    Fahrenheit <-- (9 * C + 160) / 5
+    Exiba (Fahrenheit)
+
+6 - Média ponderada de três notas
+    Recebendo 3 notas quaisquer, x, y, z e seus pesos p1, p2, p3.
+    Soma_pesos <-- p1 + p2 + p3
+    Soma_ponderada <-- (x * p1) + (y * p2) + (z * p3)
+    Média_ponderada <-- Soma_ponderada / Soma_pesos
+    Exiba (Média_ponderada)
+
+7 - Volume de uma caixa retangular
+    Recebendo 3 números quaisquer, comprimento, largura e altura.
+    Volume <-- comprimento * largura * altura
+    Exiba (Volume)
+
+8 - Valor total da compra
+    Recebendo o preço de três produtos, p1, p2, p3.
+    Total <-- p1 + p2 + p3
+    Exiba (Total)
+
+9 - Tempo total de uma viagem
+    Recebendo o tempo em horas, t, e velocidade média, v.
+    Distância <-- v * t
+    Tempo_em_minutos <-- t * 60
+    Exiba (Distância, Tempo_em_minutos)
+
+10 - Conversão de dias em horas
+    Recebendo a quantidade de dias, d.
+    Horas ← d * 24
+    Exiba (Horas)
+
+11 - Conversão de minutos em segundos
+    Recebendo a quantidade de minutos, m.
+    Segundos <-- m * 60
+    Exiba (Segundos)
+
+12 - Cálculo do novo salário
+    Recebendo o salário atual, s, e o valor do aumento fixo, a.
+    Novo_salário <-- s + a
+    Exiba (Novo_salário)
+
+13 - Cálculo de juros simples
+    Recebendo capital, C, taxa de juros mensal, i, e tempo em meses, t.
+    Montante <-- C + (C * i * t)
+    Exiba (Montante)
+
+14 - Troco de uma compra
+    Recebendo valor pago, vp, e valor da compra, vc.
+    Troco <-- vp - vc
+    Exiba (Troco)
+
+15 - Cálculo do IMC (Índice de Massa Corporal)
+    Recebendo peso (kg), p, e altura (m), h.
+    IMC <-- p / (h ** 2)
+    Exiba (IMC)
+
+16 - Perímetro de um círculo
+    Recebendo o raio, r.
+    Perímetro <-- 2 * 3.14 * r
+    Exiba (Perímetro)
+
+17 - Diferença de idades
+    Recebendo duas idades, i1 e i2.
+    Diferença <-- (i1 - i2)
+    Exiba (Diferença)
+
+18 - Média de consumo de combustível
+    Recebendo distância percorrida em km, d, e combustível gasto em litros, l.
+    Consumo <-- d / l
+    Exiba (Consumo)
+
+19 - Valor a pagar em conta dividida
+    Recebendo o valor total da conta, v, e número de pessoas, n.
+    Valor_por_pessoa <-- v / n
+    Exiba (Valor_por_pessoa)
+
+20 - Cálculo de desconto
+    Recebendo valor do produto, vp, e percentual de desconto, pd.
+    Desconto <-- vp * pd / 100
+    Valor_final <-- vp - Desconto
+    Exiba (Valorfinal)
